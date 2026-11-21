@@ -1,0 +1,2 @@
+# Machine-Learning-Project-sentiment-analysis
+Controlled $3 \times 3$ comparison of Bag-of-Words, TF-IDF, and TF-IDF with numerical features across Logistic Regression, Multinomial Naive Bayes, and k-NN on 187,132 Amazon All Beauty reviews, using imbalance-aware macro metrics.
